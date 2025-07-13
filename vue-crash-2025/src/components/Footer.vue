@@ -20,5 +20,6 @@ footer {
     text-align: center;
     padding: 350px 10px;
     position: relative;
+    margin-top: -10px;
 }
 </style>
